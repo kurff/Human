@@ -1,0 +1,31 @@
+root Hips
+lhipjoint LHipJoint
+lfemur LeftUpLeg
+ltibia LeftLeg
+lfoot LeftFoot
+ltoes LeftToeBase
+rhipjoint RHipJoint
+rfemur RightUpLeg
+rtibia RightLeg
+rfoot RightFoot
+rtoes RightToeBase
+lowerback LowerBack
+upperback Spine
+thorax Spine1
+lowerneck Neck
+upperneck Neck1
+head Head
+lclavicle LeftShoulder
+lhumerus LeftArm
+lradius LeftForeArm
+lhand LeftHand
+lfingers LeftFingerBase
+lthumb LThumb
+rclavicle RightShoulder
+rhumerus RightArm
+rradius RightForeArm
+rhand RightHand
+rfingers RightFingerBase
+rthumb RThumb
+
+
